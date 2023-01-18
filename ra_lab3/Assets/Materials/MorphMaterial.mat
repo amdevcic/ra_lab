@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MorphMaterial
+  m_Shader: {fileID: 4800000, guid: 445ab1f998bb75f4e91dbbf13994468b, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _animationSpeed: 1
+    - _bendAngle: 0
+    - _bendSpeed: 0
+    - _bobAmplitude: 1
+    - _bobSpeed: 0
+    - _rotationSpeed: 0
+    - _sineAmplitude: 1
+    - _sineSpeed: 0
+    - _sineWavelength: 5.05
+    - _xShear: 0
+    - _yScale: 1
+    - _zShear: 0
+    m_Colors: []
+  m_BuildTextureStacks: []
